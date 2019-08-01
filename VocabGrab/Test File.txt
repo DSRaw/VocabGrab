@@ -1,0 +1,100 @@
+あの…	um...	あの…
+今	now	いま
+英語	English (language)	えいご
+ええ	yes	ええ
+学生	student	がくせい
+～語	language	～ご
+高校	high school	こうこう
+午後	P.M.	ごご
+午前	A.M.	ごぜん
+～歳	...years old	～さい
+～さん	Mr./Ms....	～さん
+～時	o'clock	～じ
+～人　（アメリカ人）	people	～じん
+専攻	major	せんこう
+先生	teacher; Professor ...	せんせい
+そうです	That's right.	そうです
+そうですか	I see.; Is that so?	そうですか
+大学	college; university	だいがく
+電話	telephone	でんわ
+友達	friend	ともだち
+名前	name	なまえ
+何	what	なん／なに
+日本	Japan	にほん
+～年生	...year student	～ねんせい
+はい	yes	はい
+半	half	はん
+番号	number	ばんごう
+留学生	international student	りゅうがくせい
+私	I	わたし
+アメリカ	U.S.A.	アメリカ
+イギリス	Britain	イギリス
+オーストラリア	Australia	オーストラリア
+韓国	Korea	かんこく
+スウェーデン	Sweden	スウェーデン
+中国	China	ちゅうごく
+科学	science	かがく
+アジア研究	Asian studies	アジアけんきゅう
+経済	economics	けいざい
+国際関係	international relations	こくさいかんけい
+コンピューター	computer	コンピューター
+人類学	anthropology	じんるいがく
+政治	politics	せいじ
+ビジネス	business	ビジネス
+文学	literature	ぶんがく
+歴史	history	れきし
+仕事	job; work; occupation	しごと
+医者	doctor	いしゃ
+会社員	office worker	かいしゃいん
+高校生	high school student	こうこうせい
+主婦	housewife	しゅふ
+大学院生	graduate student	だいがくいんせい
+大学生	college student	だいがくせい
+弁護士	lawyer	べんごし
+お母さん	mother	おかあさん
+お父さん	father	おとうさん
+お姉さん	older sister	おねえさん
+お兄さん	older brother	おにいさん
+妹	younger sister	いもうと
+弟	younger brother	おとうと
+これ	this one	これ
+それ	that one	それ
+あれ	that one (over there)	あれ
+どれ	which one	どれ
+この	this ...	この
+その	that ...	その
+あの	that ... (over there)	あの
+どの	which ...	どの
+ここ	here	ここ
+そこ	there	そこ
+あそこ	over there	あそこ
+どこ	where	どこ
+誰	who	だれ
+美味しい	delicious	おいしい
+魚	fish	さかな
+豚カツ	pork cutlet	とんかつ
+肉	meat	にく
+メニュー	menu	メニュー
+野菜	vegetable	やさい
+鉛筆	pencil	えんぴつ
+傘	umbrella	かさ
+鞄	bag	かばん
+靴	shoes	くつ
+財布	wallet	さいふ
+ジーンズ	jeans	ジーンズ
+辞書	dictionary	じしょ
+自転車	bicycle	じてんしゃ
+新聞	newspaper	しんぶん
+Ｔシャツ	T-shirt	Ｔシャツ
+時計	watch; clock	とけい
+ノート	notebook	ノート
+ペン	pen	ペン
+帽子	hat; cap	ぼうし
+本	book	ほん
+喫茶店	cafe	きっさてん
+銀行	bank	ぎんこう
+トイレ	toilet; restroom	トイレ
+図書館	library	としょかん
+郵便局	post office	ゆうびんきょく
+いくら	how much	いくら
+～円	...yen	～えん
