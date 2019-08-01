@@ -9,7 +9,7 @@ My attempt at creating smooth drag and drop functionality in wxPython turned int
 
 Technical:
 
-This is a very early vision of the functionality. Some features that are intended to be user-selectable are currently hard-coded. These include: The path to the file containing the vocabulary list, which fields are displayed in the drag and drop areas, the starting point in the list, and the amount of words to display par session. The file parsing logic also assumes that your file is formatted similarly to this: "vocab word, meaning, additional info" with each single line having a single word on it. "Test File.txt" is a brief example.
+This is a very early vision of the functionality. Some features that are intended to be user-selectable are currently hard-coded. These include: The path to the file containing the vocabulary list, which fields are displayed in the drag and drop areas, the starting point in the list, and the amount of words to display per session. The file parsing logic also assumes that your file is formatted similarly to this: "vocab word, meaning, additional info" with each single line having a single word on it. "Test File.txt" is a brief example.
 
 Gameplay:
 
