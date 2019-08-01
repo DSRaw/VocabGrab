@@ -24,7 +24,7 @@ The sizers contaning the buttons for dragging and dropping to are created dynami
 
 *FlexishGridBagSizer: Inherets wx.GridBagSizer*
 
-This could probably use a better name. The purpose of extending GridBagZier was to allow dynamically adding widgets to the sizer. I wanted to keep the number of columns and rows in the grid as close to square as possible (i.e. given 12 items, I want a grid of 4x3, not 6x2). GridBagSizer forces you to know the position at which you want to add the items to the grid. This class allows dynamically determining the max number of rows and columns needed to hold a given total number of items. It also allows adding an object to a random position withn those rows and columns, so that there can be a random order to the vocabulary words displayed.
+This could probably use a better name. The purpose of extending GridBagSizer was to allow dynamically adding widgets to the sizer. I wanted to keep the number of columns and rows in the grid as close to square as possible (i.e. given 12 items, I want a grid of 4x3, not 6x2). GridBagSizer forces you to know the position at which you want to add the items to the grid. This class allows dynamically determining the max number of rows and columns needed to hold a given total number of items. It also allows adding an object to a random position withn those rows and columns, so that there can be a random order to the vocabulary words displayed.
 
 *MatchPair:*
 
