@@ -2,7 +2,8 @@
 A fresh attempt at my old VocabDrag project, this time using wxPython
 
 **2019/08/01 version 0.0.0a**
-My attempt at creating smooth drag and drop functionality in wxPython turned into writing most of the basic code for gameplay.
+
+My attempt at creating smooth drag and drop functionality in wxPython turned into writing most of the basic gameplay code.
 
 **Summary of Functionality:**
 
