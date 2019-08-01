@@ -28,14 +28,14 @@ This could probably use a better name. The purpose of extending GridBagSizer was
 
 *MatchPair:*
 
-This class contains all of code that provides drag and drop functionality and the method for determining if a match was made. The logic for this is almost entirely self contained. It only takes a list object from GameFrame in order to add to the count of total matches that have been made per each practice set. When a single vocabulary word is turned into a Match_Pair, both its Donkey button and Tail button are created as a single instance of this class. When a Match_Pair object's Tail is dragged and released, it will check if it was released within the area of the same object's Donkey button. This means there is no need for cross communication among buttons to determine if a Tail was dragged to the wrong Donkey. As far as each Match_Pair object is concerned, it has the only two Donkey and Tail buttons in existence.
+This class contains all the of code that provides drag and drop functionality as well as the method for determining if a match was made. The logic for this is almost entirely self contained. It only takes a list object from GameFrame in order to add to the count of total matches that have been made per each practice set. When a single vocabulary word is turned into a Match_Pair, both its Donkey button and Tail button are created as a single instance of this class. When a Match_Pair object's Tail is dragged and released, it will check if it was released within the area of the same object's Donkey button. This means there is no need for cross communication among buttons to determine if a Tail was dragged to the wrong Donkey. As far as each Match_Pair object is concerned, it has the only two Donkey and Tail buttons in existence.
 
 Additionally, smooth dragging is achieved by created a new frame with a facsimile of the Tail button. There was previously quite a bit of glitchy behavior with EVT_MOTION being too active and drag_frame not being destroyed properly when mouse movement was too quick or there was an unexpected loss of focus. This is the reason for binding and unbinding some of the events here dynamically. Theorectically, the events should only be bound immediately before they are needed, and should become unbound immediately after they are no longer useful.
 
 **Future Features**
 
-Intend to add functionality to allow user to take an unformatted list of vocabular words and format them such that they can be used with this program.
+Intend to add functionality to allow user to take an unformatted list of vocabulary words and format them such that they can be used with this program.
 
 Also needed is a way to allow the user to dynamically choose how their vocabulary is displayed during the game, how large they want their practice set to be, and a way for them to save their place on exit.
 
-Aditionally, the status frame needs some useful stats added to it, and a timer for users to test how fast their recognition is.
+Aditionally, the status_sizer needs some actual stats added to it, and a timer for users to test how fast their recognition is.
